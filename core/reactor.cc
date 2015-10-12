@@ -49,7 +49,6 @@
 #include <linux/types.h> // for xfs, below
 #include <sys/ioctl.h>
 #include <xfs/linux.h>
-#include <xfs/xfs_types.h>
 #include <xfs/xfs_fs.h>
 #ifdef HAVE_DPDK
 #include <core/dpdk_rte.hh>
